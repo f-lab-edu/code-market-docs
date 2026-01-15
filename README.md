@@ -1,5 +1,6 @@
 # 개요
 개발자들을 위한 쇼핑몰 code-market과 관련된 문서, 다이어그램을 관리하는 용도의 레포지토리
+https://github.com/f-lab-edu/code-market
 
 # 구성
 ## 기능명세서
